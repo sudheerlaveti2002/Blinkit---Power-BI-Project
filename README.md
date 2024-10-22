@@ -53,10 +53,6 @@ The data used in this project is based on Blinkit's grocery sales. It includes s
 
 This Power BI project provides a detailed analysis of Blinkit's grocery sales data, highlighting trends and performance metrics across different outlets and products. The insights gained from this analysis can help inform decision-making around sales strategies and product offerings.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Author
 
 Sudheer Laveti
